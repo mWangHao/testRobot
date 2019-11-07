@@ -19,4 +19,4 @@ Resource          ../../关键字/通用/common.robot
 *** Keywords ***
 模版
     [Arguments]    ${latitude}    ${longitude}    ${return_code}
-    log	${latitude}    
+    log	latitude    
