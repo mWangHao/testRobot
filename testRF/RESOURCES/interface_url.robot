@@ -1,0 +1,2 @@
+*** Variables ***
+${seach}          /s
